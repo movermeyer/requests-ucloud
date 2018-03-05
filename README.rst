@@ -10,11 +10,11 @@ UCloud authentication for the awesome requests!
 .. image:: https://requires.io/github/SkyLothar/requests-ucloud/requirements.svg?branch=master
     :target: https://requires.io/github/SkyLothar/requests-ucloud/requirements/?branch=master
 
-.. image:: https://pypip.in/py_versions/requests-ucloud/badge.svg?style=flat
+.. image:: https://img.shields.io/pypi/pyversions/requests-ucloud.svg?style=flat
     :target: https://pypi.python.org/pypi/requests-ucloud/
     :alt: Supported Python versions
 
-.. image:: https://pypip.in/license/requests-ucloud/badge.svg?style=flat
+.. image:: https://img.shields.io/pypi/l/requests-ucloud.svg?style=flat
     :target: https://pypi.python.org/pypi/requests-ucloud/
     :alt: License
 
